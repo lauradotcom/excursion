@@ -1,6 +1,5 @@
 html {
     font-family: Verdana, Tahoma, sans-serif;
-    font-weight: normal;
     font-size: 16px;
     color: #FFF;
     text-align: center;
@@ -13,6 +12,7 @@ header h1 {
 
 h1 {
     font-size: 2.625rem;
+    font-weight: normal;
 }
 
 a {
